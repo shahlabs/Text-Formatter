@@ -1,0 +1,13 @@
+com/shahlabdhi/formatter/exception/CustomException.class
+com/shahlabdhi/formatter/processor/Align.class
+com/shahlabdhi/formatter/App.class
+com/shahlabdhi/formatter/entity/Line.class
+com/shahlabdhi/formatter/algorithm/split/TextSplitter.class
+com/shahlabdhi/formatter/algorithm/split/WordsTextSplitter.class
+com/shahlabdhi/formatter/algorithm/formatter/Alignment.class
+com/shahlabdhi/formatter/algorithm/formatter/LeftAlignment.class
+com/shahlabdhi/formatter/processor/TextFormatterProcessor.class
+com/shahlabdhi/formatter/algorithm/formatter/Alignment$1.class
+com/shahlabdhi/formatter/algorithm/formatter/RightAlignment.class
+com/shahlabdhi/formatter/InputData.class
+com/shahlabdhi/formatter/algorithm/formatter/CenterAlignment.class

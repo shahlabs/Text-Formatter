@@ -1,0 +1,12 @@
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/processor/Align.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/algorithm/split/TextSplitter.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/algorithm/formatter/LeftAlignment.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/algorithm/formatter/RightAlignment.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/processor/TextFormatterProcessor.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/algorithm/split/WordsTextSplitter.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/algorithm/formatter/Alignment.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/InputData.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/exception/CustomException.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/entity/Line.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/algorithm/formatter/CenterAlignment.java
+/Users/labdhi/eclipse-workspace/formatter/src/main/java/com/shahlabdhi/formatter/App.java
