@@ -18,6 +18,8 @@ From the root directory, run:
   You can run using
   
   <code> java -jar formatter.jar left 20 </code>
+  <br/>
+  
   Post this you will get prompt to Enter Text and then you will get formatted output text
   
  
