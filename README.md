@@ -9,7 +9,7 @@ Clone repository or extract Zip file
 
 From the root directory, run:
 
-<code>mvn clean package </code>
+<code>mvn clean package </code> <br/>
 <code>java -jar target/formatter.jar <Alignment> <Width> </code>
   
   Currently, accepted values are:
